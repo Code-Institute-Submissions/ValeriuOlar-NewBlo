@@ -5,7 +5,7 @@
 :root {
   --primary-color:#333;
   --secondary-color: #444;
-  --overaly-color: rgba(0, 0, 0, 0.7);
+  --overaly-color: rgba(0, 0, 0, 0.7); /* to change the opacity 0 - 1*/ 
 }
 
 * {
@@ -99,6 +99,9 @@ img {
   background: url('https://thumbs.dreamstime.com/z/abarth-spider-geneva-brand-new-rally-specs-exposed-autoexpo-many-years-his-seventies-ancestor-little-68989768.jpg') no-repeat bottom center/cover;
   height: 600px;
 }
+.section-b-inner
+
+
 /* Utilities  */
 
 .btn { 
