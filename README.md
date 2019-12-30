@@ -1,7 +1,7 @@
 # NewBol website:
 
 ## Demo
-A live demo can be found [here]()
+A live demo can be found [here](https://valeriuolar.github.io/NewBlo/)
 ## UX
 
 ## Technologies
