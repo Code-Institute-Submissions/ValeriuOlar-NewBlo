@@ -31,6 +31,9 @@ ovaleriu7@gmail.com
 ## Content
 All content in the site were written by me Valeriu Olariu.
 ## Media
-All photos were taken from [Pexels](https://www.pexels.com/) Some filters were applied to some of the images.
+All photos, fonts were taken from:
+[Pexels](https://www.pexels.com/) Some filters were applied to some of the images.
+[Font Awesome](https://fontawesome.com/v4.7.0/)
+[Simple Lightbox](https://simplelightbox.com/)
 ## Acknowledgement
 Simplelightbox function was found through this tutorial [here](https://simplelightbox.com/).
