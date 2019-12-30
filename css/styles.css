@@ -96,7 +96,7 @@ img {
 /* Section 2 */
 .section-b {
   position: relative;
-  background: url('https://thumbs.dreamstime.com/z/abarth-spider-geneva-brand-new-rally-specs-exposed-autoexpo-many-years-his-seventies-ancestor-little-68989768.jpg') no-repeat bottom center/cover;
+  background: url('https://i.ytimg.com/vi/6eTTp--YZs0/maxresdefault.jpg') no-repeat bottom center/cover;
   height: 600px;
 }
 .section-b-inner {
@@ -119,9 +119,10 @@ img {
   font-size: 5rem;
   margin-top: 1rem;
 }
-
-
-
+.section-b-inner p {
+  font-size: 1.5rem;
+  margin-left: 1rem;
+}
 /* Utilities  */
 
 .btn { 
