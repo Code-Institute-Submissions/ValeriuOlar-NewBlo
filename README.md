@@ -11,6 +11,7 @@ A live demo can be found [here]()
 4.	[Bootstrap 4.0.0](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 5.	[JavaScript jQuery](https://www.w3schools.com/js/default.asp)
 6.  [Google Fonts](https://fonts.google.com/specimen/Catamaran)
+7.  [Font Awesome](https://fontawesome.com/v4.7.0/)
 
 ## Features
 The site is coded in CSS to be Mobile and desktop friendly, it has Bootstrap with an extra JavaScript action functions added so it will create a smoother scrolling effect.
