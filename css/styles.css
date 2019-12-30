@@ -66,6 +66,8 @@ img {
 }
 
 .navbar .nav a {
-  color: #555;
-
+  padding: 0 1rem;
+}
+.navbar .nav a:hover {
+  color:  #333;
 }
