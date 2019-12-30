@@ -1,17 +1,16 @@
-# Lemongrass Cocktail bar website:
-First mile stone Project: User-Centric Frontend Development - Code Institute
-This project is first of the five projects I will build over the upcoming weeks at Code Institute bootcamp.
-Lemon Grass cocktail bar with specific lemon-based cocktails, main page of the website is offering a deep view on the lemon-based cocktails available on the list in the bar.
+# NewBol website:
+
 ## Demo
-A live demo can be found [here](https://valeriuolar.github.io/LemonGrass-Cocktail-Bar/)
+A live demo can be found [here]()
 ## UX
-While building the prototype website my goal is to make it as easy as possible for cocktail enthusiasts find inform about the variety of cocktails and the great location of the bar
+
 ## Technologies
-1.	[HTML5]( https://www.w3schools.com/html/html_intro.asp)
-2.	[CSS3]( https://www.w3schools.com/css/)
-3.	[Ajax Pop up effect to be added]( https://www.w3schools.com/xml/ajax_intro.asp)
-4.	[Bootstrap 4.0.0]( https://getbootstrap.com/docs/4.0/getting-started/introduction/)
-5.	[JavaScript jQuery]( https://www.w3schools.com/js/default.asp)
+1.	[HTML5](https://www.w3schools.com/html/html_intro.asp)
+2.	[CSS3](https://www.w3schools.com/css/)
+3.	[Ajax Pop up effect to be added](https://www.w3schools.com/xml/ajax_intro.asp)
+4.	[Bootstrap 4.0.0](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+5.	[JavaScript jQuery](https://www.w3schools.com/js/default.asp)
+6.  [Google Fonts](https://fonts.google.com/)
 
 ## Features
 The site is coded in CSS to be Mobile and desktop friendly, it has Bootstrap with an extra JavaScript action functions added so it will create a smoother scrolling effect.
