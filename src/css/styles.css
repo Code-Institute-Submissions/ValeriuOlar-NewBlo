@@ -96,11 +96,11 @@ img {
 /* Section 2 */
 .section-b {
   position: relative;
-  background: url('https://www.car-revs-daily.com/wp-content/uploads/2016/03/2017-Abarth-124-Spider-10s.jpg') no-repeat bottom center/cover;
+  background: url('https://cdn-ds.com/blogs-media/sites/123/2019/07/30184044/2019FIAT124Spider-A_O.jpg') no-repeat bottom center/cover;
   height: 600px;
 }
 .section-b-inner {
-  color: rgb(189, 61, 61);
+  color: rgba(189, 61, 61, 0);
   height: 100%;
   display: flex;
   flex-direction: column;
