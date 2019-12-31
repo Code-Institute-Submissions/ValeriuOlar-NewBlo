@@ -7,14 +7,13 @@ A live demo with Netlify  can be found [here](https://infallible-sammet-d5848e.n
 ## UX
 
 ## Technologies
-1.	[HTML5](https://www.w3schools.com/html/html_intro.asp)
-2.	[CSS3](https://www.w3schools.com/css/)
-3.	[Ajax Pop up effect to be added](https://www.w3schools.com/xml/ajax_intro.asp)
-4.	[Bootstrap 4.0.0](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
-5.	[JavaScript jQuery](https://www.w3schools.com/js/default.asp)
-6.  [Google Fonts](https://fonts.google.com/specimen/Catamaran)
-7.  [Font Awesome](https://fontawesome.com/v4.7.0/)
-8.  [Netlify](https://infallible-sammet-d5848e.netlify.com/)
+  [HTML5](https://www.w3schools.com/html/html_intro.asp)
+  [CSS3](https://www.w3schools.com/css/)
+  [Ajax Pop up effect to be added](https://www.w3schools.com/xml/ajax_intro.asp)
+  [JavaScript jQuery](https://www.w3schools.com/js/default.asp)
+  [Google Fonts](https://fonts.google.com/specimen/Catamaran)
+  [Font Awesome](https://fontawesome.com/v4.7.0/)
+  [Netlify](https://infallible-sammet-d5848e.netlify.com/)
 
 ## Features
 The site is coded in CSS to be Mobile and desktop friendly, it has Bootstrap with an extra JavaScript action functions added so it will create a smoother scrolling effect.
