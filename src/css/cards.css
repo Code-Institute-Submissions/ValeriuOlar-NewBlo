@@ -162,3 +162,6 @@
 .card-stats.card6 {
   background: rgb(0, 189, 63);
 }
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
