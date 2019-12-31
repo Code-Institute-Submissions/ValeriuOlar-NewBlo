@@ -1,7 +1,7 @@
 # NewBol website:
 
 ## Demo
-A live demo with GitHub Page can be found [here](https://valeriuolar.github.io/NewBlo/)
+A live demo with GitHub Page can be found [here](https://valeriuolar.github.io/NewBlo/src)
 A live demo with Netlify  can be found [here](https://infallible-sammet-d5848e.netlify.com/)
 
 ## UX
@@ -20,12 +20,12 @@ The site is coded in CSS to be Mobile and desktop friendly, it has Bootstrap wit
 The Nav bar it has an added open animation effect that is appearing when the website is used on a small screen such as mobile or tablets.
 ## Left to implement
 For future development the website will be added in Ajax HTML pop up page loaded effect that will bring information the user. The feature will be integrated on all rubrics.
-The bottom of the page will also be updated In the Footer with a social media link and a physical restaurant map location.
+
 ## Testing
 Testing has been done using mobile and desktop devices from running platform [C9]( https://c9.io)
 [IntelijWebStorm]( https://www.jetbrains.com/webstorm)
 ## Deployment
-Web Hosted page has been achieved using GitHub pages, deployed directly from master branch, in order to successful achieve web deployment on GitHub page by naming the page’’index.html’’ .
+Web Hosted page has been achieved using  GitHub pages, deployed directly from master branch, in order to successful achieve web deployment on GitHub page by naming the page’’index.html’’ .
 One of the advantages using GitHub pages is as I run upcoming updates the website will be updated live.
 ## Credits
 Valeriu Olariu
