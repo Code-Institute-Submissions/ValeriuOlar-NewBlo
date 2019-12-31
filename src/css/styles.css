@@ -57,6 +57,8 @@ img {
 
 .navbar .logo {
   font-size: 2rem;
+  width: 85px;
+  height: 65px;
 }
 
 .navbar .nav{ 
@@ -96,11 +98,36 @@ img {
 /* Section 2 */
 .section-b {
   position: relative;
-  background: url('https://cdn-ds.com/blogs-media/sites/123/2019/07/30184044/2019FIAT124Spider-A_O.jpg') no-repeat bottom center/cover;
+  background: url('https://media.giphy.com/media/QB4n0OKjix2fW0I4De/giphy.gif') no-repeat bottom center/cover;
+  height: 600px;
+}
+.section-2 {
+  position: relative;
+  background: url('https://media0.giphy.com/media/S8I4EUJO4Y46CUyZc3/giphy.gif?cid=790b7611e1ef7fcd9cdb98359ba1ff534c708a51da25aeba&rid=giphy.gif') no-repeat bottom center/cover;
+  height: 600px;
+}
+.section-3 {
+  position: relative;
+  background: url('https://media0.giphy.com/media/3o7WTLEYOQITtJfN3a/giphy.gif?cid=790b761151e9e97f89f7559a553074bf150a9e89500c160a&rid=giphy.gif') no-repeat bottom center/cover;
+  height: 600px;
+}
+.section-4 {
+  position: relative;
+  background: url('https://media3.giphy.com/media/12r0kgdqCAcdMc/giphy.gif?cid=790b76111131360e253561314127c934737ad26ea2dffd91&rid=giphy.gif') no-repeat bottom center/cover;
+  height: 600px;
+}
+.section-5 {
+  position: relative;
+  background: url('https://media0.giphy.com/media/aztdjHO5QbjLa/giphy.gif?cid=790b76114c7d22ef1b4dd66d9eafe77fa48f3e30a9052596&rid=giphy.gif') no-repeat bottom center/cover;
+  height: 600px;
+}
+.section-6 {
+  position: relative;
+  background: url('https://media1.giphy.com/media/1NRMDx5LlCSSk/giphy.gif?cid=790b7611f3775b4d1eba086db1f9e39672c1bb352586d0c3&rid=giphy.gif') no-repeat bottom center/cover;
   height: 600px;
 }
 .section-b-inner {
-  color: rgba(189, 61, 61, 0);
+  color: rgba(143, 140, 140, 0.432);
   height: 100%;
   display: flex;
   flex-direction: column;
@@ -308,4 +335,29 @@ img {
   .section-footer div:nth-child(3) {
     display: none;
   }
+  /* code that is here, until the first @media block, will apply to any screen size */
+#somethingorother {
+  width: 800px ;
+}
+
+@media screen and (max-width: 320px) {
+  /* comes into effect for screens less than or equal to 320 pixels */
+  #somethingorother {
+    width: 120px ;
+  }
+}
+@media screen and (min-width: 321px) and (max-width: 480px) {
+  /* comes into effect for screens between 321 and 480 pixels (inclusive) */
+  #somethingorother {
+    width: 320px ;
+  }
+}
+@media screen and (min-width: 481px) {
+  /* comes into effect for screens larger than or equal to 481 pixels */
+  #somethingorother {
+    width: 480px ;
+  }
+}
+
+/* code that is here will apply to any screen size */
 }
