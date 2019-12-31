@@ -10,7 +10,7 @@
 .card {
   display: grid;
   grid-template-columns: 300px;
-  grid-template-rows: 179px 179px 80px;
+  grid-template-rows: 165px 165px 80px;
   grid-template-areas: "image" "text" "stats";
 
   border-radius: 18px;
@@ -26,7 +26,7 @@
 }
 .card-image {
   grid-area: image;
-  background: url("img/Spider.jpg");
+  background: url("../img/Spider.jpg");
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
   background-size: cover;
@@ -37,7 +37,7 @@
   margin: 25px;
 }
 .card-text .date {
-  color: rgb(255, 7, 110);
+  color: rgb(112, 23, 23);
   font-size:13px;
 }
 .card-text p {
@@ -56,7 +56,7 @@
   grid-template-rows: 1fr;
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 15px;
-  background: rgb(255, 7, 110);
+  background:  rgb(112, 23, 23);
 }
 .card-stats .stat {
   padding:10px;
@@ -64,11 +64,11 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  color: white;
+  color: rgb(0, 0, 0);
 }
 .card-stats .border {
-  border-left: 1px solid rgb(172, 26, 87);
-  border-right: 1px solid rgb(172, 26, 87);
+  border-left: 1px solid rgb(112, 23, 23);
+  border-right: 1px solid  rgb(112, 23, 23);
 }
 .card-stats .value{
   font-size:22px;
@@ -89,7 +89,7 @@
 
 /*card2*/
 .card-image.card2 {
-  background: url("img2.jpg");
+  background: url("../img/porsh2.jpg");
   background-size: cover;
 }
 .card-text.card2 .date {
@@ -104,7 +104,7 @@
 }
 /*card3*/
 .card-image.card3 {
-  background: url("img3.jpg");
+  background: url("../img/35z.jpg");
   background-size: cover;
 }
 .card-text.card3 .date {
@@ -119,7 +119,7 @@
 }
 /*card-4*/
 .card-image.card4 {
-  background: url("img3.jpg");
+  background: url("../img/miata.jpg");
   background-size: cover;
 }
 .card-text.card4 .date {
@@ -134,7 +134,7 @@
 }
 /*card-5*/
 .card-image.card5 {
-  background: url("img3.jpg");
+  background: url("../img/best.jpg");
   background-size: cover;
 }
 .card-text.card5 .date {
@@ -149,7 +149,7 @@
 }
 /*card-6*/
 .card-image.card6 {
-  background: url("img3.jpg");
+  background: url("../img/Z4.jpg");
   background-size: cover;
 }
 .card-text.card6 .date {
