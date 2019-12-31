@@ -1,7 +1,9 @@
 # NewBol website:
 
 ## Demo
-A live demo can be found [here]()
+A live demo with GitHub Page can be found [here](https://valeriuolar.github.io/NewBlo/)
+A live demo with Netlify  can be found [here](https://infallible-sammet-d5848e.netlify.com/)
+
 ## UX
 
 ## Technologies
@@ -12,6 +14,7 @@ A live demo can be found [here]()
 5.	[JavaScript jQuery](https://www.w3schools.com/js/default.asp)
 6.  [Google Fonts](https://fonts.google.com/specimen/Catamaran)
 7.  [Font Awesome](https://fontawesome.com/v4.7.0/)
+8.  [Netlify](https://infallible-sammet-d5848e.netlify.com/)
 
 ## Features
 The site is coded in CSS to be Mobile and desktop friendly, it has Bootstrap with an extra JavaScript action functions added so it will create a smoother scrolling effect.
