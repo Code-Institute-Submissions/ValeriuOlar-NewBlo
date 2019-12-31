@@ -117,3 +117,48 @@
 .card-stats.card3 {
   background: rgb(0, 189, 63);
 }
+/*card-4*/
+.card-image.card4 {
+  background: url("img3.jpg");
+  background-size: cover;
+}
+.card-text.card4 .date {
+  color: rgb(0, 189, 63);
+}
+.card-stats.card4 .border {
+  border-left: 1px solid rgb(14, 122, 50);
+  border-right: 1px solid rgb(14, 122, 50);
+}
+.card-stats.card4 {
+  background: rgb(0, 189, 63);
+}
+/*card-5*/
+.card-image.card5 {
+  background: url("img3.jpg");
+  background-size: cover;
+}
+.card-text.card5 .date {
+  color: rgb(0, 189, 63);
+}
+.card-stats.card5 .border {
+  border-left: 1px solid rgb(14, 122, 50);
+  border-right: 1px solid rgb(14, 122, 50);
+}
+.card-stats.card5 {
+  background: rgb(0, 189, 63);
+}
+/*card-6*/
+.card-image.card6 {
+  background: url("img3.jpg");
+  background-size: cover;
+}
+.card-text.card6 .date {
+  color: rgb(70, 69, 36);
+}
+.card-stats.card6 .border {
+  border-left: 1px solid rgb(14, 122, 50);
+  border-right: 1px solid rgb(14, 122, 50);
+}
+.card-stats.card6 {
+  background: rgb(0, 189, 63);
+}
