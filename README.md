@@ -13,7 +13,7 @@ A live demo with Netlify  can be found [here](https://infallible-sammet-d5848e.n
   [JavaScript jQuery](https://www.w3schools.com/js/default.asp)
   [Google Fonts](https://fonts.google.com/specimen/Catamaran)
   [Font Awesome](https://fontawesome.com/v4.7.0/)
-  [Netlify](https://infallible-sammet-d5848e.netlify.com/)#
+  [Netlify](https://infallible-sammet-d5848e.netlify.com/)
   [giphy](https://giphy.com/gifs/porsche-porsche718-porsche718caymangt4-S8I4EUJO4Y46CUyZc3)
 
 ## Features

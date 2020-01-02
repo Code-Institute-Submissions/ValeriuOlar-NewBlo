@@ -126,6 +126,40 @@ img {
   background: url('https://media1.giphy.com/media/1NRMDx5LlCSSk/giphy.gif?cid=790b7611f3775b4d1eba086db1f9e39672c1bb352586d0c3&rid=giphy.gif') no-repeat bottom center/cover;
   height: 600px;
 }
+.section-me {
+  position: relative;
+  background: url('https://media1.giphy.com/media/1NRMDx5LlCSSk/giphy.gif?cid=790b7611f3775b4d1eba086db1f9e39672c1bb352586d0c3&rid=giphy.gif') no-repeat bottom center/cover;
+  height: 200px;
+  width: 99.5%;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* About me */
+.section-me{
+  text-align: justify;
+
+}
+.map{
+  float: right;
+  background-color: lightgrey;
+  width: 40%;
+  border: 11px solid rgb(53, 44, 43);
+  padding: 10px;
+  margin: 5px;
+  overflow: auto;
+
+}
+.map-ti{
+  
+}
+.mehome{
+  background-color: lightgrey;
+  width: 500px;
+  border: 4px solid rgb(53, 44, 43);
+  padding: 10px;
+  margin: 5px;
+  overflow: auto;
+}
 .section-b-inner {
   color: rgba(143, 140, 140, 0.432);
   height: 100%;
