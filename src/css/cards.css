@@ -18,7 +18,7 @@
   box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
   font-family: roboto;
   text-align: center;
-  
+
 
   transition: 0.5s ease;
   cursor: pointer;
@@ -50,7 +50,7 @@
   font-size:28px;
 }
 .card-stats {
-  grid-area: stats; 
+  grid-area: stats;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr;
