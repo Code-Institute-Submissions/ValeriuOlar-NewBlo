@@ -33,32 +33,94 @@
   <!--- Overley start -->
   <section class="section-me">
   </section>
-  <div class="mehome1">
-    <div class="search-car">
-      <p class="carbo">Search cars </p>
+  <div class="mehome">
+    <!-- MAIN (Center website) -->
+    <div class="main">
+
+    <h1>MYLOGO.COM</h1>
+    <hr>
+
+    <h2>PORTFOLIO</h2>
+
+    <div id="myBtnContainer">
+      <button class="btn active" onclick="filterSelection('all')"> Show all</button>
+      <button class="btn" onclick="filterSelection('nature')"> Nature</button>
+      <button class="btn" onclick="filterSelection('cars')"> Cars</button>
+      <button class="btn" onclick="filterSelection('people')"> People</button>
     </div>
-    <div class="info-home">
-      <h1> Home ME </h1>
-        <p class="index-me"> Terms is a long established fact that a reader will b
-        e distracted by the readable content of a page when looking at its layout.
-        The point of using Lorem Ipsum is that it has a more-or-less normal distribution
-         of letters, as opposed to using 'Content here, content here', making it look like readable
-         English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their
-         default model text, and a search for 'lorem ipsum'
-         will uncover many web sites still in their infancy.
-       </p>
-     </div>
-     <div class="info-home1">
-       <h1> Home ME </h1>
-         <p class="index-me"> Terms is a long established fact that a reader will b
-         e distracted by the readable content of a page when looking at its layout.
-         The point of using Lorem Ipsum is that it has a more-or-less normal distribution
-          of letters, as opposed to using 'Content here, content here', making it look like readable
-          English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their
-          default model text, and a search for 'lorem ipsum'
-          will uncover many web sites still in their infancy.
-        </p>
+
+    <!-- Portfolio Gallery Grid -->
+    <div class="row">
+      <div class="column nature">
+        <div class="content">
+          <img src="/w3images/mountains.jpg" alt="Mountains" style="width:100%">
+          <h4>Mountains</h4>
+          <p>Lorem ipsum dolor..</p>
+        </div>
       </div>
+      <div class="column nature">
+        <div class="content">
+        <img src="/w3images/lights.jpg" alt="Lights" style="width:100%">
+          <h4>Lights</h4>
+          <p>Lorem ipsum dolor..</p>
+        </div>
+      </div>
+      <div class="column nature">
+        <div class="content">
+        <img src="/w3images/nature.jpg" alt="Nature" style="width:100%">
+          <h4>Forest</h4>
+          <p>Lorem ipsum dolor..</p>
+        </div>
+      </div>
+
+      <div class="column cars">
+        <div class="content">
+          <img src="/w3images/cars1.jpg" alt="Car" style="width:100%">
+          <h4>Retro</h4>
+          <p>Lorem ipsum dolor..</p>
+        </div>
+      </div>
+      <div class="column cars">
+        <div class="content">
+        <img src="/w3images/cars2.jpg" alt="Car" style="width:100%">
+          <h4>Fast</h4>
+          <p>Lorem ipsum dolor..</p>
+        </div>
+      </div>
+      <div class="column cars">
+        <div class="content">
+        <img src="/w3images/cars3.jpg" alt="Car" style="width:100%">
+          <h4>Classic</h4>
+          <p>Lorem ipsum dolor..</p>
+        </div>
+      </div>
+
+      <div class="column people">
+        <div class="content">
+          <img src="/w3images/people1.jpg" alt="Car" style="width:100%">
+          <h4>Girl</h4>
+          <p>Lorem ipsum dolor..</p>
+        </div>
+      </div>
+      <div class="column people">
+        <div class="content">
+        <img src="/w3images/people2.jpg" alt="Car" style="width:100%">
+          <h4>Man</h4>
+          <p>Lorem ipsum dolor..</p>
+        </div>
+      </div>
+      <div class="column people">
+        <div class="content">
+        <img src="/w3images/people3.jpg" alt="Car" style="width:100%">
+          <h4>Woman</h4>
+          <p>Lorem ipsum dolor..</p>
+        </div>
+      </div>
+    <!-- END GRID -->
+    </div>
+
+    <!-- END MAIN -->
+    </div>
    </div>
 
   <!-- Footer -->
@@ -124,5 +186,6 @@
   </footer>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script src="js/small-box.js"></script>
 </body>
 </html>
