@@ -184,11 +184,18 @@ img {
   margin-bottom: 90px;
   float: right;
 }
-.carbo{
-
+.about-me{
+  padding-right: 10px;
+  width: 35%;
+  height: 280px;
 }
-.index-me{
-
+.me-image{
+  /*top: 10%;*/
+  left: 10%;
+  border-radius: 20px;
+  width: 600px;
+  position: relative;
+  box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
 }
 
 .section-b-inner {
