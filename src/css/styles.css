@@ -138,6 +138,12 @@ img {
 .section-me{
   text-align: justify;
 }
+.mehome2{
+  width: 100%;
+  height: 800px;
+  padding: 10px;
+
+}
 
 .mehome{
   background-color: lightgrey;
