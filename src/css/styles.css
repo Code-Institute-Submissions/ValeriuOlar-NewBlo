@@ -5,7 +5,7 @@
 :root {
   --primary-color:#333;
   --secondary-color: #444;
-  --overaly-color: rgba(0, 0, 0, 0.7); /* to change the opacity 0 - 1*/ 
+  --overaly-color: rgba(0, 0, 0, 0.7); /* to change the opacity 0 - 1*/
 }
 
 * {
@@ -52,7 +52,7 @@ img {
 .navbar .container {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  
+
 }
 
 .navbar .logo {
@@ -61,7 +61,7 @@ img {
   height: 65px;
 }
 
-.navbar .nav{ 
+.navbar .nav{
   justify-self: flex-end;
   display: flex;
   align-items: center;
@@ -139,19 +139,7 @@ img {
   text-align: justify;
 
 }
-.map{
-  float: right;
-  background-color: lightgrey;
-  width: 40%;
-  border: 11px solid rgb(53, 44, 43);
-  padding: 10px;
-  margin: 5px;
-  overflow: auto;
 
-}
-.map-ti{
-  
-}
 .mehome{
   background-color: lightgrey;
   width: 500px;
@@ -207,7 +195,7 @@ img {
   height: 100%;
 }
 
-/* Footer Start */ 
+/* Footer Start */
 
 .section-footer {
   background: var(--primary-color);
@@ -240,7 +228,7 @@ img {
   margin-right: 0.5rem;
 }
 
-/* Email Start*/ 
+/* Email Start*/
 
 
 .email-form {
@@ -295,7 +283,7 @@ img {
 
 
 /* Utilities  */
-.btn { 
+.btn {
   display: inline-block;
   background: var(--primary-color);
   color: #fff;
