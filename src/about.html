@@ -8,6 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="shortcut icon" type="icon" href="img/logo1.png" />
   <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/contact.css">
   <link rel="stylesheet" href="css/simplelightbox.min.css">
   <meta name="author" content="valeriu Olariu">
   <title>MyBlo - Ablout Us</title>
@@ -26,28 +27,46 @@
       </ul>
     </div>
   </nav>
-   <section class="section-me">
+   <section class="section-me">  </section>
 
-  </section>
-  
-  <div class="mehome">
-  <section> 
+<div class="mehome2">
+<div class="wrapper">
+  <h2>Contact Me</h2>
+  <p> Happy to rear more about Car Reviews </p>
+  <div id="error_message">
+  </div>
+  <form action="" id="myform" onsubmit = "return validate();">
+    <div class="input_field">
+        <input type="text" placeholder="Name" id="name">
+    </div>
+    <div class="input_field">
+        <input type="text" placeholder="Subject" id="subject">
+    </div>
+    <div class="input_field">
+        <input type="text" placeholder="Phone" id="phone">
+    </div>
+    <div class="input_field">
+        <input type="text" placeholder="Email" id="email">
+    </div>
+    <div class="input_field">
+        <textarea placeholder="Message" id="message"></textarea>
+    </div>
+    <div class="btn">
+        <input type="submit">
+    </div>
+  </form>
+</div>
      <h1> About ME </h1>
-       <p class="amout-me"> Terms is a long established fact that a reader will b
-       e distracted by the readable content of a page when looking at its layout. 
+       <p class="about-me"> Terms is a long established fact that a reader will b
+       e distracted by the readable content of a page when looking at its layout.
        The point of using Lorem Ipsum is that it has a more-or-less normal distribution
         of letters, as opposed to using 'Content here, content here', making it look like readable
         English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their
         default model text, and a search for 'lorem ipsum'
-        will uncover many web sites still in their infancy. 
+        will uncover many web sites still in their infancy.
       </p>
-  </section>
-  </div>
-  <div class="map">
-  <h2 class="map-ti"> Find us </h1>
-
-  </div>
-  
+      <img class="me-image" src="img/me/me.jpg" alt="Avatar">
+</div>
   <!-- Footer -->
   <footer class="section-footer py-4 bg-primary">
     <div class="container">
@@ -90,8 +109,7 @@
           class="mt-1"
           name="email-form"
           method="POST"
-          data-netlify="true"
-        >
+          data-netlify="true">
           <div class="email-form">
             <span class="form-control-wrap"
               ><input
@@ -100,8 +118,8 @@
                 id="email"
                 size="40"
                 class="form-control"
-                placeholder="E-mail"/></span
-            ><button type="submit" value="Submit" class="form-control submit">
+                placeholder="E-mail"/></span>
+                <button type="submit" value="Submit" class="form-control submit">
               <i class="fas fa-chevron-right"></i>
             </button>
           </div>
@@ -109,8 +127,7 @@
       </div>
     </div>
   </footer>
-
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
-
+<script src="js/contact.js"></script>
 </body>
 </html>
